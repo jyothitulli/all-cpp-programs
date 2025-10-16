@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/jyothitulli/all-cpp-programs/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/jyothitulli/all-cpp-programs/tree/master/0692-top-k-frequent-words) |
 ## Hash Table
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/jyothitulli/all-cpp-programs/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/jyothitulli/all-cpp-programs/tree/master/0692-top-k-frequent-words) |
 ## String
 |  |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/jyothitulli/all-cpp-programs/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/jyothitulli/all-cpp-programs/tree/master/0692-top-k-frequent-words) |
 ## Heap (Priority Queue)
 |  |
@@ -64,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/jyothitulli/all-cpp-programs/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jyothitulli/all-cpp-programs/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jyothitulli/all-cpp-programs/tree/master/0145-binary-tree-postorder-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/jyothitulli/all-cpp-programs/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
