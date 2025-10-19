@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/jyothitulli/all-cpp-programs/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/jyothitulli/all-cpp-programs/tree/master/0692-top-k-frequent-words) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jyothitulli/all-cpp-programs/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/jyothitulli/all-cpp-programs/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/jyothitulli/all-cpp-programs/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/jyothitulli/all-cpp-programs/tree/master/0692-top-k-frequent-words) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jyothitulli/all-cpp-programs/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/jyothitulli/all-cpp-programs/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/jyothitulli/all-cpp-programs/tree/master/0324-wiggle-sort-ii) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/jyothitulli/all-cpp-programs/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 ## Quickselect
 |  |
 | ------- |
