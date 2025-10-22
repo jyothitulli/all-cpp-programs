@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jyothitulli/all-cpp-programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0324-wiggle-sort-ii](https://github.com/jyothitulli/all-cpp-programs/tree/master/0324-wiggle-sort-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/jyothitulli/all-cpp-programs/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/jyothitulli/all-cpp-programs/tree/master/0645-set-mismatch) |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jyothitulli/all-cpp-programs/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jyothitulli/all-cpp-programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
