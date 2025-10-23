@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/jyothitulli/all-cpp-programs/tree/master/0007-reverse-integer) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jyothitulli/all-cpp-programs/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/jyothitulli/all-cpp-programs/tree/master/0692-top-k-frequent-words) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jyothitulli/all-cpp-programs/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jyothitulli/all-cpp-programs/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Trie
 |  |
 | ------- |
@@ -118,8 +120,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jyothitulli/all-cpp-programs/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jyothitulli/all-cpp-programs/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyothitulli/all-cpp-programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jyothitulli/all-cpp-programs/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jyothitulli/all-cpp-programs/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
