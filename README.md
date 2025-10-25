@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyothitulli/all-cpp-programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0324-wiggle-sort-ii](https://github.com/jyothitulli/all-cpp-programs/tree/master/0324-wiggle-sort-ii) |
+| [0525-contiguous-array](https://github.com/jyothitulli/all-cpp-programs/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/jyothitulli/all-cpp-programs/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/jyothitulli/all-cpp-programs/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/jyothitulli/all-cpp-programs/tree/master/0692-top-k-frequent-words) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jyothitulli/all-cpp-programs/tree/master/0141-linked-list-cycle) |
+| [0525-contiguous-array](https://github.com/jyothitulli/all-cpp-programs/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/jyothitulli/all-cpp-programs/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/jyothitulli/all-cpp-programs/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/jyothitulli/all-cpp-programs/tree/master/0692-top-k-frequent-words) |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jyothitulli/all-cpp-programs/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/jyothitulli/all-cpp-programs/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
