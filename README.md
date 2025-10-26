@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/jyothitulli/all-cpp-programs/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/jyothitulli/all-cpp-programs/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jyothitulli/all-cpp-programs/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/jyothitulli/all-cpp-programs/tree/master/2169-simple-bank-system) |
 | [2181-smallest-index-with-equal-value](https://github.com/jyothitulli/all-cpp-programs/tree/master/2181-smallest-index-with-equal-value) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/jyothitulli/all-cpp-programs/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/jyothitulli/all-cpp-programs/tree/master/0692-top-k-frequent-words) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jyothitulli/all-cpp-programs/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2169-simple-bank-system](https://github.com/jyothitulli/all-cpp-programs/tree/master/2169-simple-bank-system) |
 ## String
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jyothitulli/all-cpp-programs/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/jyothitulli/all-cpp-programs/tree/master/2169-simple-bank-system) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jyothitulli/all-cpp-programs/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
 |  |
@@ -142,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/jyothitulli/all-cpp-programs/tree/master/0525-contiguous-array) |
+## Design
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/jyothitulli/all-cpp-programs/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
