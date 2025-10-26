@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/jyothitulli/all-cpp-programs/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jyothitulli/all-cpp-programs/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jyothitulli/all-cpp-programs/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/jyothitulli/all-cpp-programs/tree/master/0155-min-stack) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/jyothitulli/all-cpp-programs/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Tree
 |  |
@@ -151,5 +152,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/jyothitulli/all-cpp-programs/tree/master/0155-min-stack) |
 | [2169-simple-bank-system](https://github.com/jyothitulli/all-cpp-programs/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
