@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyothitulli/all-cpp-programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0324-wiggle-sort-ii](https://github.com/jyothitulli/all-cpp-programs/tree/master/0324-wiggle-sort-ii) |
+| [0506-relative-ranks](https://github.com/jyothitulli/all-cpp-programs/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/jyothitulli/all-cpp-programs/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/jyothitulli/all-cpp-programs/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/jyothitulli/all-cpp-programs/tree/master/0645-set-mismatch) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/jyothitulli/all-cpp-programs/tree/master/0324-wiggle-sort-ii) |
+| [0506-relative-ranks](https://github.com/jyothitulli/all-cpp-programs/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/jyothitulli/all-cpp-programs/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/jyothitulli/all-cpp-programs/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/jyothitulli/all-cpp-programs/tree/master/0692-top-k-frequent-words) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/jyothitulli/all-cpp-programs/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/jyothitulli/all-cpp-programs/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
