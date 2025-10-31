@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/jyothitulli/all-cpp-programs/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/jyothitulli/all-cpp-programs/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyothitulli/all-cpp-programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0324-wiggle-sort-ii](https://github.com/jyothitulli/all-cpp-programs/tree/master/0324-wiggle-sort-ii) |
 | [0506-relative-ranks](https://github.com/jyothitulli/all-cpp-programs/tree/master/0506-relative-ranks) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/jyothitulli/all-cpp-programs/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/jyothitulli/all-cpp-programs/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jyothitulli/all-cpp-programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0647-palindromic-substrings](https://github.com/jyothitulli/all-cpp-programs/tree/master/0647-palindromic-substrings) |
 ## Combinatorics
