@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jyothitulli/all-cpp-programs/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/jyothitulli/all-cpp-programs/tree/master/2169-simple-bank-system) |
 | [2181-smallest-index-with-equal-value](https://github.com/jyothitulli/all-cpp-programs/tree/master/2181-smallest-index-with-equal-value) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jyothitulli/all-cpp-programs/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/jyothitulli/all-cpp-programs/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/jyothitulli/all-cpp-programs/tree/master/0692-top-k-frequent-words) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jyothitulli/all-cpp-programs/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2169-simple-bank-system](https://github.com/jyothitulli/all-cpp-programs/tree/master/2169-simple-bank-system) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jyothitulli/all-cpp-programs/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## String
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/jyothitulli/all-cpp-programs/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/jyothitulli/all-cpp-programs/tree/master/0692-top-k-frequent-words) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jyothitulli/all-cpp-programs/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -170,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/jyothitulli/all-cpp-programs/tree/master/0155-min-stack) |
 | [2169-simple-bank-system](https://github.com/jyothitulli/all-cpp-programs/tree/master/2169-simple-bank-system) |
+## Sliding Window
+|  |
+| ------- |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jyothitulli/all-cpp-programs/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 <!---LeetCode Topics End-->
