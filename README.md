@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/jyothitulli/all-cpp-programs/tree/master/0007-reverse-integer) |
 | [0412-fizz-buzz](https://github.com/jyothitulli/all-cpp-programs/tree/master/0412-fizz-buzz) |
+| [2873-prime-pairs-with-target-sum](https://github.com/jyothitulli/all-cpp-programs/tree/master/2873-prime-pairs-with-target-sum) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/jyothitulli/all-cpp-programs/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jyothitulli/all-cpp-programs/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Array
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jyothitulli/all-cpp-programs/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/jyothitulli/all-cpp-programs/tree/master/2169-simple-bank-system) |
 | [2181-smallest-index-with-equal-value](https://github.com/jyothitulli/all-cpp-programs/tree/master/2181-smallest-index-with-equal-value) |
+| [2873-prime-pairs-with-target-sum](https://github.com/jyothitulli/all-cpp-programs/tree/master/2873-prime-pairs-with-target-sum) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jyothitulli/all-cpp-programs/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/jyothitulli/all-cpp-programs/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2873-prime-pairs-with-target-sum](https://github.com/jyothitulli/all-cpp-programs/tree/master/2873-prime-pairs-with-target-sum) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jyothitulli/all-cpp-programs/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Prefix Sum
 |  |
@@ -183,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jyothitulli/all-cpp-programs/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [2873-prime-pairs-with-target-sum](https://github.com/jyothitulli/all-cpp-programs/tree/master/2873-prime-pairs-with-target-sum) |
 <!---LeetCode Topics End-->
