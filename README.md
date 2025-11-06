@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jyothitulli/all-cpp-programs/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0412-fizz-buzz](https://github.com/jyothitulli/all-cpp-programs/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/jyothitulli/all-cpp-programs/tree/master/0500-keyboard-row) |
 | [0647-palindromic-substrings](https://github.com/jyothitulli/all-cpp-programs/tree/master/0647-palindromic-substrings) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jyothitulli/all-cpp-programs/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/jyothitulli/all-cpp-programs/tree/master/0141-linked-list-cycle) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/jyothitulli/all-cpp-programs/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0647-palindromic-substrings](https://github.com/jyothitulli/all-cpp-programs/tree/master/0647-palindromic-substrings) |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jyothitulli/all-cpp-programs/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jyothitulli/all-cpp-programs/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
