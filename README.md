@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/jyothitulli/all-cpp-programs/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/jyothitulli/all-cpp-programs/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/jyothitulli/all-cpp-programs/tree/master/0692-top-k-frequent-words) |
+| [1169-largest-values-from-labels](https://github.com/jyothitulli/all-cpp-programs/tree/master/1169-largest-values-from-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jyothitulli/all-cpp-programs/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/jyothitulli/all-cpp-programs/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jyothitulli/all-cpp-programs/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/jyothitulli/all-cpp-programs/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/jyothitulli/all-cpp-programs/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/jyothitulli/all-cpp-programs/tree/master/0692-top-k-frequent-words) |
+| [1169-largest-values-from-labels](https://github.com/jyothitulli/all-cpp-programs/tree/master/1169-largest-values-from-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jyothitulli/all-cpp-programs/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2169-simple-bank-system](https://github.com/jyothitulli/all-cpp-programs/tree/master/2169-simple-bank-system) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/jyothitulli/all-cpp-programs/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/jyothitulli/all-cpp-programs/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/jyothitulli/all-cpp-programs/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/jyothitulli/all-cpp-programs/tree/master/0692-top-k-frequent-words) |
+| [1169-largest-values-from-labels](https://github.com/jyothitulli/all-cpp-programs/tree/master/1169-largest-values-from-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jyothitulli/all-cpp-programs/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/jyothitulli/all-cpp-programs/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/jyothitulli/all-cpp-programs/tree/master/4078-maximum-alternating-sum-of-squares) |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/jyothitulli/all-cpp-programs/tree/master/0692-top-k-frequent-words) |
+| [1169-largest-values-from-labels](https://github.com/jyothitulli/all-cpp-programs/tree/master/1169-largest-values-from-labels) |
 ## Stack
 |  |
 | ------- |
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/jyothitulli/all-cpp-programs/tree/master/0324-wiggle-sort-ii) |
+| [1169-largest-values-from-labels](https://github.com/jyothitulli/all-cpp-programs/tree/master/1169-largest-values-from-labels) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/jyothitulli/all-cpp-programs/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/jyothitulli/all-cpp-programs/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Quickselect
