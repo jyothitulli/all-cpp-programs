@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/jyothitulli/all-cpp-programs/tree/master/0007-reverse-integer) |
 | [0412-fizz-buzz](https://github.com/jyothitulli/all-cpp-programs/tree/master/0412-fizz-buzz) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/jyothitulli/all-cpp-programs/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jyothitulli/all-cpp-programs/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2288-count-operations-to-obtain-zero](https://github.com/jyothitulli/all-cpp-programs/tree/master/2288-count-operations-to-obtain-zero) |
 | [2873-prime-pairs-with-target-sum](https://github.com/jyothitulli/all-cpp-programs/tree/master/2873-prime-pairs-with-target-sum) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/jyothitulli/all-cpp-programs/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/jyothitulli/all-cpp-programs/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/jyothitulli/all-cpp-programs/tree/master/0692-top-k-frequent-words) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/jyothitulli/all-cpp-programs/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1169-largest-values-from-labels](https://github.com/jyothitulli/all-cpp-programs/tree/master/1169-largest-values-from-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jyothitulli/all-cpp-programs/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2169-simple-bank-system](https://github.com/jyothitulli/all-cpp-programs/tree/master/2169-simple-bank-system) |
