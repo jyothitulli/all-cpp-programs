@@ -1,7 +1,10 @@
 class Solution:
     def getSneakyNumbers(self, nums: List[int]) -> List[int]:
         temp=[]
+        seen=[]
         for i in nums:
-            if nums.count(i) >1 and i not in temp:
+            if i in seen:
                 temp.append(i)
+            else:
+                seen.append(i)
         return temp
