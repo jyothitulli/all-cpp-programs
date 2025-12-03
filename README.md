@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jyothitulli/all-cpp-programs/tree/master/0141-linked-list-cycle) |
+| [0205-isomorphic-strings](https://github.com/jyothitulli/all-cpp-programs/tree/master/0205-isomorphic-strings) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jyothitulli/all-cpp-programs/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/jyothitulli/all-cpp-programs/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/jyothitulli/all-cpp-programs/tree/master/0525-contiguous-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jyothitulli/all-cpp-programs/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/jyothitulli/all-cpp-programs/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/jyothitulli/all-cpp-programs/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/jyothitulli/all-cpp-programs/tree/master/0500-keyboard-row) |
 | [0647-palindromic-substrings](https://github.com/jyothitulli/all-cpp-programs/tree/master/0647-palindromic-substrings) |
