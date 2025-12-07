@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/jyothitulli/all-cpp-programs/tree/master/0412-fizz-buzz) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/jyothitulli/all-cpp-programs/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jyothitulli/all-cpp-programs/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/jyothitulli/all-cpp-programs/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2288-count-operations-to-obtain-zero](https://github.com/jyothitulli/all-cpp-programs/tree/master/2288-count-operations-to-obtain-zero) |
 | [2873-prime-pairs-with-target-sum](https://github.com/jyothitulli/all-cpp-programs/tree/master/2873-prime-pairs-with-target-sum) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jyothitulli/all-cpp-programs/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
