@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jyothitulli/all-cpp-programs/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/jyothitulli/all-cpp-programs/tree/master/2169-simple-bank-system) |
 | [2181-smallest-index-with-equal-value](https://github.com/jyothitulli/all-cpp-programs/tree/master/2181-smallest-index-with-equal-value) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/jyothitulli/all-cpp-programs/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2873-prime-pairs-with-target-sum](https://github.com/jyothitulli/all-cpp-programs/tree/master/2873-prime-pairs-with-target-sum) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jyothitulli/all-cpp-programs/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/jyothitulli/all-cpp-programs/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-largest-values-from-labels](https://github.com/jyothitulli/all-cpp-programs/tree/master/1169-largest-values-from-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jyothitulli/all-cpp-programs/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2169-simple-bank-system](https://github.com/jyothitulli/all-cpp-programs/tree/master/2169-simple-bank-system) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/jyothitulli/all-cpp-programs/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jyothitulli/all-cpp-programs/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/jyothitulli/all-cpp-programs/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3583-count-special-triplets](https://github.com/jyothitulli/all-cpp-programs/tree/master/3583-count-special-triplets) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/jyothitulli/all-cpp-programs/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/jyothitulli/all-cpp-programs/tree/master/0692-top-k-frequent-words) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jyothitulli/all-cpp-programs/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/jyothitulli/all-cpp-programs/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jyothitulli/all-cpp-programs/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Trie
 |  |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/jyothitulli/all-cpp-programs/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/jyothitulli/all-cpp-programs/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/jyothitulli/all-cpp-programs/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/jyothitulli/all-cpp-programs/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/jyothitulli/all-cpp-programs/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
