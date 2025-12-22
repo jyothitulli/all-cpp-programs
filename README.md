@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/jyothitulli/all-cpp-programs/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/jyothitulli/all-cpp-programs/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/jyothitulli/all-cpp-programs/tree/master/0692-top-k-frequent-words) |
+| [0944-delete-columns-to-make-sorted](https://github.com/jyothitulli/all-cpp-programs/tree/master/0944-delete-columns-to-make-sorted) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jyothitulli/all-cpp-programs/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1169-largest-values-from-labels](https://github.com/jyothitulli/all-cpp-programs/tree/master/1169-largest-values-from-labels) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/jyothitulli/all-cpp-programs/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/jyothitulli/all-cpp-programs/tree/master/0500-keyboard-row) |
 | [0647-palindromic-substrings](https://github.com/jyothitulli/all-cpp-programs/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/jyothitulli/all-cpp-programs/tree/master/0692-top-k-frequent-words) |
+| [0944-delete-columns-to-make-sorted](https://github.com/jyothitulli/all-cpp-programs/tree/master/0944-delete-columns-to-make-sorted) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jyothitulli/all-cpp-programs/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/jyothitulli/all-cpp-programs/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jyothitulli/all-cpp-programs/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
