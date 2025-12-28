@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-smallest-index-with-equal-value](https://github.com/jyothitulli/all-cpp-programs/tree/master/2181-smallest-index-with-equal-value) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/jyothitulli/all-cpp-programs/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2873-prime-pairs-with-target-sum](https://github.com/jyothitulli/all-cpp-programs/tree/master/2873-prime-pairs-with-target-sum) |
+| [3074-apple-redistribution-into-boxes](https://github.com/jyothitulli/all-cpp-programs/tree/master/3074-apple-redistribution-into-boxes) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jyothitulli/all-cpp-programs/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/jyothitulli/all-cpp-programs/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/jyothitulli/all-cpp-programs/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/jyothitulli/all-cpp-programs/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/jyothitulli/all-cpp-programs/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/jyothitulli/all-cpp-programs/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3074-apple-redistribution-into-boxes](https://github.com/jyothitulli/all-cpp-programs/tree/master/3074-apple-redistribution-into-boxes) |
 | [3531-count-covered-buildings](https://github.com/jyothitulli/all-cpp-programs/tree/master/3531-count-covered-buildings) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/jyothitulli/all-cpp-programs/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-largest-values-from-labels](https://github.com/jyothitulli/all-cpp-programs/tree/master/1169-largest-values-from-labels) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/jyothitulli/all-cpp-programs/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/jyothitulli/all-cpp-programs/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
+| [3074-apple-redistribution-into-boxes](https://github.com/jyothitulli/all-cpp-programs/tree/master/3074-apple-redistribution-into-boxes) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/jyothitulli/all-cpp-programs/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Quickselect
 |  |
